@@ -3,7 +3,7 @@
 @section('tituloPagina','Crud con laravel')
 
 @section('contenido')
-    <div class="card">
+    <div class="card" style="opacity: 0.9;">
         <h5 class="card-header">Crud con laravel y Mysql</h5>
         <div class="card-body">
             <div class="row">
